@@ -13,7 +13,7 @@
   vars: 
     PERSON: "Siva from PLAY"
     WISHES: " Mornibg from PLAY" 
-  tasks:
+  #tasks:
   # - name: check variables
   #   vars:
   #     PERSON: "Siva from task"
